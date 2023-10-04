@@ -34,7 +34,7 @@
 
 [DRV2605L Driver Board](https://www.adafruit.com/product/2305) 
 
-(I recommend this one because it has QWIIC and STEMMA QT connectors which can be adapted to Grove connectors for the M5Stack CoreS3, which many people already use for the Camera accessory)
+(I recommend this one because it has QWIIC and STEMMA QT connectors which can be adapted to Grove connectors for the M5Stack CoreS3, which many people already use for the Camera accessory.)
 
 [LRA Motor](https://www.adafruit.com/product/1201)
 
@@ -44,9 +44,11 @@
 
 (More Arduino support coming soon)
 
+[Playdate Haptic Accessory Project Firmware](https://github.com/SamDamDing/Playdate-Haptic-Accessory-Project-Firmware/tree/main)
+
 # HOW TO USE!
 
-Compile the Playdate Haptic Accessory Project Firmware and upload it to your Teensy 4.1.
+Compile the [Playdate Haptic Accessory Project Firmware](https://github.com/SamDamDing/Playdate-Haptic-Accessory-Project-Firmware/tree/main) and upload it to your Teensy 4.1.
 
 Connect your Playdate to the Teensy 4.1's USBHost pins.
 
