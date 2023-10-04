@@ -1,0 +1,8 @@
+name=PHAP - Playdate Haptic Accessory Program
+author=MercyMoon
+description=This is an application to test out Haptic Waveforms on the Playdate
+bundleID=com.MercyMoon.package
+version=0.0.1
+buildNumber=1
+pdxversion=20000
+buildtime=749716515
